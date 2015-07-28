@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TAS1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_audio">audio</string>
+    <string name="title_activity_video">video</string>
+    <string name="title_activity_speech">speech</string>
+    <string name="btnPlay">Play</string>
+    <string name="namaLagu"> </string>
+    <string name="songName"></string>
+</resources>
